@@ -1,0 +1,51 @@
+station_id,city,location,capacity_kW,installation_date
+1,Bangalore,Indiranagar,75,2019-06-02
+2,Hyderabad,Banjara Hills,75,2020-05-31
+3,Mumbai,Malad,150,2019-04-15
+4,Mumbai,Andheri,100,2023-10-23
+5,Delhi,Connaught Place,50,2019-04-10
+6,Delhi,Rohini,150,2021-05-20
+7,Pune,Viman Nagar,150,2018-04-03
+8,Mumbai,Bandra,75,2024-04-22
+9,Pune,Hinjewadi,100,2020-05-03
+10,Bangalore,Marathahalli,75,2019-03-25
+11,Delhi,Saket,100,2023-05-12
+12,Bangalore,Whitefield,50,2021-12-31
+13,Bangalore,Indiranagar,50,2018-09-12
+14,Hyderabad,Kukatpally,150,2024-05-11
+15,Mumbai,Andheri,75,2019-11-18
+16,Bangalore,Whitefield,100,2022-02-24
+17,Bangalore,Whitefield,150,2020-01-29
+18,Hyderabad,Madhapur,75,2021-01-03
+19,Hyderabad,Kukatpally,75,2022-12-10
+20,Hyderabad,Kukatpally,100,2019-10-22
+21,Pune,Wakad,100,2021-01-28
+22,Hyderabad,Madhapur,100,2024-01-03
+23,Hyderabad,Gachibowli,75,2018-12-21
+24,Bangalore,Whitefield,100,2020-02-10
+25,Pune,Viman Nagar,75,2024-08-26
+26,Delhi,Saket,50,2020-09-06
+27,Hyderabad,Kukatpally,75,2022-08-08
+28,Mumbai,Bandra,75,2022-05-30
+29,Hyderabad,Begumpet,50,2018-06-02
+30,Bangalore,HSR Layout,100,2018-07-16
+31,Hyderabad,Banjara Hills,75,2018-05-18
+32,Hyderabad,Gachibowli,100,2018-10-17
+33,Hyderabad,Begumpet,100,2021-09-01
+34,Delhi,Rohini,75,2021-12-27
+35,Hyderabad,Banjara Hills,100,2022-07-19
+36,Bangalore,HSR Layout,75,2019-10-04
+37,Delhi,Karol Bagh,150,2024-07-27
+38,Mumbai,Malad,50,2018-12-25
+39,Pune,Baner,50,2023-06-27
+40,Mumbai,Powai,150,2024-07-07
+41,Pune,Kharadi,75,2019-09-19
+42,Delhi,Dwarka,100,2020-03-08
+43,Mumbai,Powai,100,2023-03-10
+44,Bangalore,Marathahalli,150,2023-04-15
+45,Delhi,Saket,50,2024-01-24
+46,Pune,Wakad,150,2022-01-05
+47,Mumbai,Bandra,50,2021-12-05
+48,Delhi,Connaught Place,75,2020-08-07
+49,Mumbai,Dadar,150,2019-02-10
+50,Bangalore,Marathahalli,100,2023-10-16
